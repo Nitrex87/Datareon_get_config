@@ -1,7 +1,7 @@
 {
-  "Folder_configs": "D:\\\\Datareon_configs",
-  "Temp_folder": "D:\\\\Datareon_configs\\\\Temp",
-  "Zip_app": "C:\\\\Program Files\\\\7-Zip\\\\7z.exe",
+  "Folder_configs": "D:\\Datareon_configs",
+  "Temp_folder": "D:\\Datareon_configs\\Temp",
+  "Zip_app": "C:\\Program Files\\7-Zip\\7z.exe",
   "configs_to_scan": [
     {
       "path": "https://dtr.prod.host:7200",
